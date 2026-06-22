@@ -89,20 +89,4 @@
     "update": "https://raw.githubusercontent.com/yatsimuratsuyuno/Anime-Torrent-V.1/main/index.json",
     "code": "https://raw.githubusercontent.com/yatsimuratsuyuno/Anime-Torrent-V.1/main/tokyotosho.js"
   }
-    {
-    "name": "Sukebei",
-    "id": "hayase.extension.sukebei",
-    "version": "1.0.0",
-    "type": "torrent",
-    "accuracy": "medium",
-    "ratio": 0,
-    "media": "sub",
-    "languages": [
-      "JP",
-      "US"
-    ],
-    "icon": "https://sukebei.nyaa.si/static/favicon.png",
-    "update": "https://raw.githubusercontent.com/yatsimuratsuyuno/Anime-Torrent-V.1/main/index.json",
-    "code": "https://raw.githubusercontent.com/yatsimuratsuyuno/Anime-Torrent-V.1/main/sukebei.js"
-  },
 ]
